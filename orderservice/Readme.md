@@ -1,4 +1,4 @@
-# Node-JS Application for Swagger and RMQ sender
+# Node-JS Application for Swagger, RMQ Sender, MySQL connection, Mocha and Chai scripts.
 
 ## steps to run:
 
